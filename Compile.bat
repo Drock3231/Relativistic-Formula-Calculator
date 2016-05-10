@@ -1,0 +1,2 @@
+javac com/detell/relative/RelativisticCalculator.java
+PAUSE
